@@ -9,6 +9,8 @@ Ce projet est concue pour mettre en place une application qui va permettre au in
 5. Localiser les pharmacies dans la Map
 6. Afficher l'itiniraire vers la pharmacie choisi
 7. mention de garde pour les pharmacien
+8. Un pharmacien peut ajouter sa pharmacie
+9. Un pharmacien peut mentionner une garde pour ca pharmacie
 
 # Mise en place du projet
 Pour mettre en place ce projet, vous aurez besoin des éléments suivants :
