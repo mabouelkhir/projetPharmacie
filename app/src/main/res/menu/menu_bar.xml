@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addpharmacie"
+        android:icon="@drawable/ic_baseline_local_pharmacy_24"
+        android:title="Add"/>
+    <item
+        android:id="@+id/etat"
+        android:icon="@drawable/ic_baseline_domain_verification_24"
+        android:title="Etat"/>
+
+    <item
+        android:id="@+id/garde"
+        android:icon="@drawable/ic_baseline_add_moderator_24"
+        android:title="Demande"/>
+
+    <item
+        android:id="@+id/historique"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="Historique"/>
+
+</menu>
