@@ -1,5 +1,5 @@
 # Localisation des pharmacies
-Ce projet est concue pour mettre en place une application qui va permettre au internaute de localiser les pharmacies en precisant la ville et la zone d'appartenance et le type de garde de la pharmacie qui peut etre jour ou nuit.
+Ce projet est concue pour mettre en place une application qui va permettre au pharmacien de creer les pharmacies en precisant son nom, adresse et localisation, il peut aussi la mettre en garde en specifiant le type et la date de garde ainsi que la visualisation d'historique de garde
 
 # Fonctionnalités
 1. Affichage des pharmacies de garde de jour et de nuit dans la ville sélectionnée, groupées par zone
